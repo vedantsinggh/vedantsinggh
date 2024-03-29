@@ -1,26 +1,45 @@
-# Hello, I'm Vedant Singh! 👋
+# Hello, World! 👋
 
-I'm currently a student at Delhi Technological University, passionate about programming and always eager to learn new technologies.
+Welcome to my little corner of the digital universe! I'm Vedant Singh, a passionate engineer. Here, you'll find a blend of my coding adventures, whimsical projects, and maybe even a sprinkle of magic ✨.
 
-## 🛠️ Technologies & Tools
+## About Me
 
-- **Languages:** C++, Python, Dart
-- **Frameworks/Libraries:** Flask, Flutter
-- **Databases:** MySQL
-- **Version Control:** Git & GitHub
+🚀 Aspiring Embedded System Engineer
+🎨 Creative thinker and problem solver
+🌱 Lifelong learner on a journey of constant improvement
+📚 Enthusiastic reader and knowledge seeker
+🌍 Lover of exploration and adventure
 
-## 📈 GitHub Stats
+## What I'm Up To
 
-[Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantsinggh&show_icons=true&theme=radical)
+🔭 Currently exploring Flutter
+🌱 Learning OS
+💼 Working on [GNIT](https://github.com/vedantsinggh/gnit/)
 
-## 🔄 Past GitHub Account
+## Get in Touch
 
-I previously used the GitHub account [vedant-dev](https://github.com/vedant-dev). You can find some of my older projects there.
+📫 Feel free to reach out to me via [email](mailto:vedantsinggh@gmail.com). Whether you want to chat about tech, collaborate on a project, or share your favorite book recommendations, I'm all ears!
+🐦 Connect with me on [Twitter](https://twitter.com/vedantsinggh)
+💼 Check out my professional profile on [LinkedIn](https://www.linkedin.com/in/vedantsinggh)
 
-## 📫 How to reach me
+## Fun Facts
 
-You can reach out to me through [LinkedIn](https://www.linkedin.com/in/vedantsinggh/) or drop me an [email](mailto:vedantsinggh@gmail.com).
+🎭 I'm a pursuing Mechanical Engineer at DTU.
+🎨 I am creating [GNIT](https://github.com/vedantsinggh/gnit/)
+🎶 My coding playlist is filled with C++.
 
-Please feel free to fork and star my repositories if you find my projects interesting or useful. If you have any questions or want to collaborate on a project, don't hesitate to contact me!
+## My Toolbox
 
-**NOTE:** This is a personal README. The projects, code, opinions, and views here are my own and do not represent my employer.
+💻 Languages: C++, Dart, Python, Javascript
+🧰 Tools: Git, Vim, Arch(btw)
+📚 Technologies: Flutter, SQL
+
+## Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantsinggh&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantsinggh&layout=compact&theme=radical)
+
+## Let's Build Something Awesome Together!
+
+🚀 Want to collaborate on a project or just brainstorm some cool ideas? Don't hesitate to reach out! Let's turn our dreams into reality, one line of code at a time.
