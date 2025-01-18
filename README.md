@@ -2,7 +2,6 @@
 <h3 align="center">A mechanic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantsinggh&label=Profile%20views&color=0e75b6&style=flat" alt="vedantsinggh" /> </p>
-
 <p align="left"> <a href="https://twitter.com/vedantsinggh" target="blank"><img src="https://img.shields.io/twitter/follow/vedantsinggh?logo=twitter&style=for-the-badge" alt="vedantsinggh" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**, **Machine Learning**, and **ROS** to enhance my robotics expertise.  
