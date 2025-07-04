@@ -1,39 +1,58 @@
-<h1 align="center">Hi 👋, I'm Vedant Singh</h1>
-<h3 align="center">A mechanic</h3>
+# 👋 Hi there, I'm Vedant Singh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantsinggh&label=Profile%20views&color=0e75b6&style=flat" alt="vedantsinggh" /> </p>
-<p align="left"> <a href="https://twitter.com/vedantsinggh" target="blank"><img src="https://img.shields.io/twitter/follow/vedantsinggh?logo=twitter&style=for-the-badge" alt="vedantsinggh" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=vedantsinggh)
+[![GitHub followers](https://img.shields.io/github/followers/vedantsinggh?label=Followers&style=social)](https://github.com/vedantsinggh)
+[![Star Badge](https://img.shields.io/github/stars/vedantsinggh?style=social)](https://github.com/vedantsinggh)
 
-- 🌱 I’m currently learning **Web Development**, **Machine Learning**, and **ROS** to enhance my robotics expertise.  
-- 🤖 Part of **UGV DTU**, where I manage software integration and sensor systems for autonomous vehicles.  
-- 💡 Recently participated in an international robotics competition UGVC, securing **4th place overall** and **1st in presentations**.  
-- 🔭 I’m working a custom programming language, and a **custom graphics library**.  
-- 💬 Ask me about **C++**, **Robotics**, and **System Integration**.  
-- 📫 How to reach me **vedantsinggh@gmail.com**  
-- ⚡ Fun fact: I have a knack for blending creativity with engineering, whether it’s writing code, designing robots, or developing apps.
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vedantsinggh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedantsinggh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vedantsinggh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedantsinggh" height="30" width="40" /></a>
-<a href="https://instagram.com/vedantsinggh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedantsinggh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vedantsinggh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedantsinggh" height="30" width="40" /></a>
-<a href="https://discord.gg/kmzeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kmzeee" height="30" width="40" /></a>
-</p>
+## 🧠 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.reactjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+I’m a developer and robotics enthusiast currently building scalable, intelligent systems — from **autonomous robots** and **ROS2 simulators**, to **backup tools** and **custom operating systems**.
 
-<br/>
+I lead systems-level projects at **UGV-DTU**, where we design autonomous ground vehicles for international competitions like **IGVC** and **UGVC Egypt**. I also design **low-level CLI tools in C++**, work on **embedded navigation systems** using **RTK-GPS and LiDAR**, and occasionally dive into **kernel development**.
 
-![](https://github-readme-stats.vercel.app/api?username=vedantsinggh&show_icons=true&locale=en&theme=highcontrast&border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=vedantsinggh&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantsinggh&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+I build what I need. Then I open source it.
+
+---
+
+## 🔧 Technologies & Tools
+
+**Languages:**  
+`C++` `Python` `JavaScript` `Go` `Shell` `Java` `C`  
+
+**Frameworks & Tools:**  
+`ROS2` `Raylib` `Android SDK` `React` `Node.js` `SDL2` `OpenCV` `Firebase` `AWS S3`  
+
+**Hardware & Systems:**  
+`ZED-F9P RTK GPS` `BLDC Motor Control` `ROS Navigation Stack` `Linux Systems` `Custom OS Dev`  
+
+---
+
+## 🚀 Projects & Highlights
+
+- 🎯 **UGV-DTU Autonomous Bots** – Autonomous rovers for IGVC’25 and UGVC'24. Contributed in planning, sensor fusion, and custom GUIs.
+- 💾 **Kory Backup Engine** – A C++ CLI tool for intelligent file backups, deduplication, and restore using a `kor.bak` JSON index.
+- 🛠️ **ROS2 Simulator in JS** – A 2D canvas simulator with a realistic 3-wheeled differential robot model, lane detection, and LiDAR.
+- 📡 **RTK GPS Integration** – Full RTK setup using two ZED-F9P modules, ROS integration, NTRIP corrections over TCP.
+- 🖥️ **Custom OS Project** – Building a usable kernel and experimenting with kernel-level AI/LLM integration.
+- 📷 **Photo Backup Manager** – Cross-platform backup system with a CLI backend, Android app, and desktop client.
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=vedantsinggh&show_icons=true&theme=radical)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantsinggh&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [linkedin.com/in/vedant-singh](https://linkedin.com)
+- **Email:** Drop a message via Issues or Discussions
+
+---
+
+> “Build tools that *you* would use. Share them so others do too.”  
+— Vedant Singh
