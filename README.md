@@ -14,4 +14,4 @@ I build what I need. Then I open source it.
 ## Contact Me
 
 - **LinkedIn:** [linkedin.com/in/vedantsinggh](https://linkedin.com)
-- **Email:** vedamtsinggh@gmail.com
+- **Email:** vedantsinggh@gmail.com
